@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-1641&label=Profile%20views&color=0e75b6&style=flat" alt="joel-1641" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joel-1641" alt="joel-1641" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/joelpethuel" target="blank"><img src="https://img.shields.io/twitter/follow/joelpethuel?logo=twitter&style=for-the-badge" alt="joelpethuel" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/joelpethuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joelpethuel" height="30" width="40" /></a>
+<a href="https://twitter.com/joelpethuel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joelpethuel1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandrakumar joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandrakumar joel" height="30" width="40" /></a>
 <a href="https://fb.com/joel hebrews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joel hebrews" height="30" width="40" /></a>
 <a href="https://instagram.com/joel jireh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joel jireh" height="30" width="40" /></a>
