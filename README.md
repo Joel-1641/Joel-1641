@@ -9,8 +9,6 @@
 <a href="https://fb.com/joel hebrews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joel hebrews" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joel sandrakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel sandrakumar" height="30" width="40" /></a>
 <a href="https://twitter.com/joelpethuel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joelpethuel1" height="30" width="40" /></a>
-<a href="mailto:sandrakumarjoel@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="joel jireh email" height="30" width="40" />
 </a>
 </p>
 
