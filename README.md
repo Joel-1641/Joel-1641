@@ -1,9 +1,15 @@
 <h1 align="center">Hey,  It's me Joel</h1>
 <h3 align="center">🌟Aspiring Full-Stack Developer🌟</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-1641&show_icons=true&locale=en&layout=compact" alt="joel-1641" /></p> <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-1641&show_icons=true&locale=en&layout=compact" alt="joel-1641" /></p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joel-1641&show_icons=true&locale=en" alt="joel-1641" /></p>
+###
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joel-1641&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="165" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-1641&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="165" alt="languages graph" /> </div>
+
+
+###
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
